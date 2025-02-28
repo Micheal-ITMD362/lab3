@@ -280,6 +280,14 @@ input[type="submit"]:hover {
 }
 
 
+label {
+  font-weight: 400;
+  display: block;
+  margin-bottom: 0.5em;
+  color: #444;
+}
+
+
 
 
 
