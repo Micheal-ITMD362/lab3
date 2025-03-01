@@ -266,6 +266,9 @@ input[type="email"]:focus {
 input[type="checkbox"] {
   width: auto;
   margin-right: 0.5em;
+  width: 18px;
+  background-color: #666;
+  
 }
 
 input[type="submit"] {
